@@ -13,7 +13,7 @@ him and access parts of the world it couldn't before. Use the spirits' power to 
 are hiding the stolen colors. 
 
 HueSwitch is developed in Unity using the C# programming language. Developed between me and my 
-design partner. HueSwitch is available for Windows/Mac PC.
+design partner, with help from students at the Berklee College of Music. HueSwitch is available for Windows/Mac PC.
 
 ## My role
 I did all of the gameplay/tools programming, VFX, character art/rigging for this game. Here's the list of everything I implemented:
