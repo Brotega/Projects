@@ -6,7 +6,7 @@ folder. From there run W1ll 0verfl0w.exe to play the game. **If any problems are
 will fix it as soon as possible.**
 
 Don't have a Windows PC? Don't worry, you can play the game directly from your browser if it supports WebGL! Our game can also be
-played here: https://diglungdig.itch.io/w1ll0verfl0w . Have fun!
+played here: https://diglungdig.itch.io/w1ll0verfl0w .
 
 ## Game Description
 W1ll 0verfl0w is a 2D side-scroller game about a character named W1ll. W1ll's very own free will is being threatened by viruses
