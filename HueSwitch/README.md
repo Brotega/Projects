@@ -38,4 +38,5 @@ Our game has a trailer you can check out! Here's the link: https://www.youtube.c
 ## Other
 - This game will have further development in the near future. The art and narrative are highly likely to change. Current 
 gameplay elements will remain the same.
-- As of January 15, 2020, this game has been submitted for the USC Games Expo 2020. Hopefully it gets shown there!
+- As of January 15, 2020, this game has been submitted for the USC Games Expo 2020. Waiting for approval; hopefully it gets 
+shown there!
