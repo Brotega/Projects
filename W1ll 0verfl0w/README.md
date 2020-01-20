@@ -1,6 +1,12 @@
 # W1ll 0verfl0w
 
-## Instructions to play W1ll 0verfl0w
+## Instructions to play W1ll 0verfl0w 
+Download or clone the entire Projects folder if you haven't already. Navigate to the W1ll Overfl0w folder and go to the Windows 
+folder. From there run W1ll 0verfl0w.exe to play the game. **If any problems are encountered contact me at ortegaam@usc.edu, and I 
+will fix it as soon as possible.**
+
+Don't have a Windows PC? Don't worry, you can play the game directly from your browser if it supports WebGL! Our game can also be
+played here: https://diglungdig.itch.io/w1ll0verfl0w . Have fun!
 
 ## Game Description
 W1ll 0verfl0w is a 2D side-scroller game about a character named W1ll. W1ll's very own free will is being threatened by viruses
@@ -19,3 +25,6 @@ As a gameplay programmer, here's the list of my duties:
 - Enemy AI behavior: Implemented enemy behavior that makes the enemy target and go toward an available player UI slot. If 
 successful, the enemy infects that slot, affecting the player status, whether it be damaging their health, slowing their movement 
 speed, activating reverse player controls, or decreasing jump speed.
+
+## Other
+Our game and team got featured in the USCGames news! Check it out here: https://games.usc.edu/news/newbies-vets-game-jam-winners/
