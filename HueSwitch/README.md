@@ -1,5 +1,10 @@
 # HueSwitch
 
+## Download Instructions
+Download the entire Windows or Mac folder, depending on the operating system you're using. If you're on a Windows PC, run 
+HueSwitch.exe. Otherwise if you're on a Mac PC, run the HueSwitch.app. **If any problems are encountered contact me at 
+ortegaam@usc.edu and I will fix it**
+
 ## Description
 HueSwitch is a 2D puzzle platformer game that takes place in a 3D world. Most of the world has lost its color, and it is up to an 
 angel to restore color back to the world. With the help of 4 colored spirits, the angel is able to rotate the world around him 
