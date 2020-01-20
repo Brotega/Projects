@@ -1,4 +1,4 @@
-# Retronomicon
+# Retronomicon **There's no executable for this project. See the Video Link header for a gameplay link.**
 
 ## Description
 Retronomicon is a puzzle arcade game developed in Unity using the C# programming language. In this game, the player must 
