@@ -1,2 +1,2 @@
 # Projects
- My portfolio of projects.
+ Hello! Welcome to my portfolio of projects.
