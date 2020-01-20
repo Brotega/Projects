@@ -1,5 +1,5 @@
 # Game Engine
-**See under the Video Link header to see the running engine.**
+**To see the engine, look under the Video Link header and click on the link provided.**
 
 
 ## Description
@@ -13,8 +13,8 @@ Implemented many features of the game engine:
 - Profiling for keeping track of performance
 - Memory allocation for allocating static lights
 - Physics: gravity simulation, AABB collision detection, raycasting
-- Moving character based on player input (WASD keys) and making them jump (spacebar)
+- Updating character's position based on player input. Includes jumping as well.
 - Multithreading for calculating 3D animations on a different thread
 
 ## Video Link
-To see the engine running, check it out here: https://youtu.be/eWf2pcLqX7U
+To see the engine, check it out here: https://youtu.be/eWf2pcLqX7U
