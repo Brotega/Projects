@@ -6,10 +6,12 @@ HueSwitch.exe. Otherwise if you're on a Mac PC, run the HueSwitch.app. **If any 
 ortegaam@usc.edu, and I will fix it.**
 
 ## Description
-HueSwitch is a 2D puzzle platformer game that takes place in a 3D world. Most of the world has lost its color, and it is up to an 
-angel to restore color back to the world. With the help of 4 colored spirits, the angel is able to rotate the world around him 
-and access parts of the world it couldn't before. Use the spirits' power to navigate around and unlock all the doors that are 
-hiding the stolen colors. HueSwitch is developed in Unity using the C# programming language. Developed between me and my 
+HueSwitch is a 2D puzzle platformer game that takes place in a 3D world. Most of the world has lost its color, and it is up to 
+an angel to restore color back to the world. With the help of 4 colored spirits, the angel is able to rotate the world around 
+him and access parts of the world it couldn't before. Use the spirits' power to navigate around and unlock all the doors that 
+are hiding the stolen colors. 
+
+HueSwitch is developed in Unity using the C# programming language. Developed between me and my 
 design partner. HueSwitch is available for Windows/Mac PC.
 
 ## My role
