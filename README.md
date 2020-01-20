@@ -1,2 +1,2 @@
 # Projects
- Hello! Welcome to my portfolio of projects.
+ Hello, in here you will find all the projects I've worked on as a programmer. Feel free to check them out!
