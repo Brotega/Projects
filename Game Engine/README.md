@@ -1,6 +1,6 @@
 # Game Engine
-**To see the engine, look under the Video Link header and click on the link provided.**
-
+**In this folder are images of the engine. To see the engine in motion, look under the Video Link header and click on the link 
+provided.**
 
 ## Description
 This is a game engine I worked on for a class project. The engine is written in C++11 using DirectX 11 and HLSL for Windows PC.
