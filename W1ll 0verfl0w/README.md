@@ -16,7 +16,7 @@ as an opportunity to take out any infected UI. W1ll's goal is to activate the an
 Doing so will guarantee W1ll his free will, or will it?
 
 W1ll 0verfl0w is a game developed by a group of passionate gamers. This game was made for the Newbies and Vets Game Jam 2019 at 
-USC. It is developed in Unity using the C# programming language.
+the University of Southern California. It is developed in Unity using the C# programming language.
 
 ## My Role 
 As a gameplay programmer, here's the list of my duties:
