@@ -1,5 +1,5 @@
 # Retronomicon 
-**There's no executable for this project. See the Video Link header for a gameplay link.**
+**There's no executable for this project to run. Look under the Video Link header for a game play link.**
 
 ## Description
 Retronomicon is a puzzle arcade game developed in Unity using the C# programming language. In this game, the player must 
@@ -13,7 +13,7 @@ UI elements. To help achieve retro-style aethestic, I created my own simple text
 in development, I will work on creating VFX (particle systems) for some of the level objects.
 
 ## Video Link
-Since Retronomicon is targeted for Android devices, we cannot change our build settings to create an executable for a PC version.
-Therefore in addition to images provided in this folder, I will provide a video link that shows gameplay to see my work in motion.
+Since Retronomicon is targeted for Android devices, we are unable to create a build for PC. Therefore in addition to images 
+provided in this folder, I will provide a video link that shows gameplay to see my work in motion.
 
 **Link**: https://youtu.be/IT6-NO1rpMs
