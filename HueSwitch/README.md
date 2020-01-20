@@ -1,9 +1,10 @@
 # HueSwitch
 
 ## Instructions to play HueSwitch
-Download or clone the entire Projects folder. Navigate to the HueSwitch folder and go to either Windows or Mac folder, depending 
-on the operating system you're using. If you're on a Windows PC, run HueSwitch.exe. Otherwise if you're on a Mac PC, run the 
-HueSwitch.app. **If any problems are encountered contact me at ortegaam@usc.edu, and I will fix it.**
+Download or clone the entire Projects folder if you haven't already. Navigate to the HueSwitch folder and go to either Windows 
+or Mac folder, depending on the operating system you're using. If you're on a Windows PC, run HueSwitch.exe. Otherwise if you're 
+on a Mac PC, run the HueSwitch.app. **If any problems are encountered contact me at ortegaam@usc.edu, and I will fix it as 
+soon as possible.**
 
 ## Game Description
 HueSwitch is a 2D puzzle platformer game that takes place in a 3D world. Most of the world has lost its color, and it is up to 
