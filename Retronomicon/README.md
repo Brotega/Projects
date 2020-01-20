@@ -4,7 +4,8 @@
 ## Description
 Retronomicon is a puzzle arcade game developed in Unity using the C# programming language. In this game, the player must 
 figure out how to send a physics-driven ball towards the end goal to complete the level. There are a wide variety of levels
-that can be played, since the game features a level creation system that allows players to share and upload their levels online. There are many level objects and powerups that a player can put in their created level. This means each level has a unique solution 
+that can be played, since the game features a level creation system that allows players to upload and share their levels online. 
+There are many level objects and powerups that a player can put in their created level. This means each level has a unique solution 
 for being solved. Retronomicon is currently targeted for Android devices. 
 
 ## My Role
