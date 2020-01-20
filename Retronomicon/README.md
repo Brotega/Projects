@@ -8,5 +8,10 @@ for being solved. Retronomicon is currently targeted for Android devices.
 
 ## My Role
 I am the **tech artist** for this team project. My main duties have been implementing shaders to some of the level objects and all 
-UI elements. To help achieve such retro-style aethestic, I created my own simple textures to sample from. Since the game is still 
+UI elements. To help achieve retro-style aethestic, I created my own simple textures to sample from. Since the game is still 
 in development, I will work on creating VFX (particle systems) for some of the level objects.
+
+## Video Link
+Since Retronomicon is targeted for Android devices, we cannot change our build settings to create an executable for a PC version.
+Therefore in addition to images provided in this folder, I will provide a video link that shows gameplay to see my work in motion.
+**Link**: https://youtu.be/IT6-NO1rpMs
