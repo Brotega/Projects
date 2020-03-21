@@ -12,7 +12,7 @@ Onryo is a 2D horror game about a person (the player) who wakes up in the house 
 only a flashlight, the player must navigate through the darkness, collecting the artifacts scattered around the home. Place
 the objects, one by one, on the spell circle located at the front of the house in order to exorcise the geisha and escape the house.
 
-This game was made for the spring MEGA Game Jam at the University of Southern California. It is developed in Unity using the C# 
+This game was made for the spring MEGA Game Jam 2020 at the University of Southern California. It is developed in Unity using the C# 
 programming language.
 
 ## My Role 
