@@ -21,3 +21,7 @@ As a gameplay programmer, here's the list of my duties:
 when in range of the flashlight, done using vector math.
 - Movement: Grid-based movement with Unity's raycasting to prevent collision against walls.
 - UI: Display text for when player cannot proceed through door/closet
+
+## Other
+Onryo received awards for the following at the spring MEGA Game Jam 2020 at the University of Southern Californa: Best Art, Best Audio,
+Best Game Design, and Best Overall!

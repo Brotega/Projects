@@ -28,3 +28,4 @@ speed, activating reverse player controls, or decreasing jump speed.
 
 ## Other
 Our game and team got featured in the USCGames news! Check it out here: https://games.usc.edu/news/newbies-vets-game-jam-winners/
+W1ll 0verfl0w also got an award for Best Art at the Newbies and Vets Game Jam 2019!
